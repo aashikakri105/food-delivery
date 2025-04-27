@@ -66,10 +66,6 @@ npm run dev
 ```
 The app will be available at http://localhost:5173/.
 
-## 🖥️ Screenshots
-
-Home Page	Menu Opened
-(Add your screenshots in a /screenshots/ folder inside your project.)
 
 ## 🎯 Future Improvements
 - Add live backend for dynamic menu updates
